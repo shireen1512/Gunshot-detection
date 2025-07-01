@@ -70,12 +70,11 @@ The script will print a message when a gunshot is detected.
 
 ## Credits
 - UrbanSound8K dataset by Justin Salamon, Christopher Jacoby, and Juan Pablo Bello
-- Model and code by [Your Name]
 
 ## Project Status
 
-- The Jupyter notebook (`gunshot_training.ipynb`) works for training and testing audio files.
-- The Python scripts for real-time inference (`script_realtime_inference.py`, etc.) are **not working for now** (work in progress).
+- [x] The Jupyter notebook (`gunshot_training.ipynb`) works for training and testing audio files.
+- [ ] The Python scripts for real-time inference (`script_realtime_inference.py`, etc.) are **not working for now** (work in progress).
 
 ---
 Feel free to contribute or open issues for improvements! 
